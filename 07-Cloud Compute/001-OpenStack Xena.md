@@ -3,20 +3,9 @@ Ini adalah Contoh pembangunan infrastruktur Cloud Computing oleh OpenStack Xena.
 
 <ul>
  <li> 1) Komponen Utama OpenStack</li>
-</ul
- <table align="center" border="1" cellpadding="10">
-        <tr>
-            <td>Baris 1 kolom 1</td>
-            <td>baris 1 kolom 2</td>
-        </tr>
-        <tr>
-            <td>Baris 2 kolom 1</td>
-            <td>baris 2 kolom 2</td>
-        </tr>
-    </table>
- 
- <table align="center" border="1" cellpadding="20">
- 
+</ul>
+
+ <table>
         <tr> 
           <th>Service</th> <th>Code Name</th> <th>Description</th>
         </tr> 
