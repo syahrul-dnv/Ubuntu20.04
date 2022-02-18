@@ -1,11 +1,9 @@
 # OpenStack Xena
 Ini adalah Contoh pembangunan infrastruktur Cloud Computing oleh OpenStack Xena. Pelajari deskripsi singkat tentang OpenStack di bawah ini sebelum membangun. (
 
-<ul>
  <li> 1) Komponen Utama OpenStack</li>
-</ul>
 
-<table>
+<table align="center">
  <tr> 
     <th>Service</th> <th>Code Name</th> <th>Description</th>
  </tr> 
