@@ -40,8 +40,20 @@ Ini adalah Contoh pembangunan infrastruktur Cloud Computing oleh OpenStack Xena.
   <td>Storage Management for Virtual Machine</td>
  </tr>
  <tr><td>Network Service</td>	
-  <td>Neutron<</td>	
+  <td>Neutron</td>	
   <td>Virtual Networking Management</td>
  </tr>
+ <tr>
+  <td>Load Balancing Service</td>	<td>Octavia</td>	<td>Provides Load Balancing feature</td>
+ </tr>
+ <tr><td>Orchestration Service</td>	<td>Heat</td>	<td>Provides Orchestration feature for Virtual Machine</td></tr>
+Metering Service	Ceilometer	Provides the feature of Usage measurement for accounting
+Database Service	Trove	Database resource Management
+Container Service	Magnum	Container Infrastructure Management
+Data Processing Service	Sahara	Provides Data Processing feature
+Bare Metal Provisioning	Ironic	Provides Bare Metal Provisioning feature
+Shared File System	Manila	Provides File Sharing Service
+DNS Service	Designate	Provides DNS Server Service
+Key Manager Service	Barbican	Provides Key Management Service
  
  </table>
