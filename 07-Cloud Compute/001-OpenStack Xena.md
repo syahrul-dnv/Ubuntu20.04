@@ -46,14 +46,23 @@ Ini adalah Contoh pembangunan infrastruktur Cloud Computing oleh OpenStack Xena.
  <tr>
   <td>Load Balancing Service</td>	<td>Octavia</td>	<td>Provides Load Balancing feature</td>
  </tr>
+ 
  <tr><td>Orchestration Service</td>	<td>Heat</td>	<td>Provides Orchestration feature for Virtual Machine</td></tr>
-Metering Service	Ceilometer	Provides the feature of Usage measurement for accounting
-Database Service	Trove	Database resource Management
-Container Service	Magnum	Container Infrastructure Management
-Data Processing Service	Sahara	Provides Data Processing feature
-Bare Metal Provisioning	Ironic	Provides Bare Metal Provisioning feature
-Shared File System	Manila	Provides File Sharing Service
-DNS Service	Designate	Provides DNS Server Service
-Key Manager Service	Barbican	Provides Key Management Service
+ 
+ <tr><td>Metering Service</td>	<td>Ceilometer</td>	<td>Provides the feature of Usage measurement for accounting</td></tr>
+ 
+ <tr><td>Database Service</td>	<td>Trove</td>	<td>Database resource Management</td></tr>
+ 
+ <tr><td>Container Service</td>	<td>Magnum</td>	<td>Container Infrastructure Management</td></tr>
+ 
+ <tr><td>Data Processing Service</td>	<td>Sahara</td>	<td>Provides Data Processing feature</td></tr>
+ 
+ <tr><td>Bare Metal Provisioning</td>	<td>Ironic</td>	<td>Provides Bare Metal Provisioning feature</td></tr>
+ 
+ <tr><td>Shared File System</td>	<td>Manila</td>	<td>Provides File Sharing Service</td></tr>
+ 
+ <tr>DNS Service	Designate<td>	<td>Provides</td> <td>DNS Server Service</td></tr>
+ 
+ <tr><td>Key Manager Service</td>	<td>Barbican</td>	<td>Provides Key Management Service<td></tr>
  
  </table>
