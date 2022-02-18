@@ -61,7 +61,7 @@ Ini adalah Contoh pembangunan infrastruktur Cloud Computing oleh OpenStack Xena.
  
  <tr><td>Shared File System</td>	<td>Manila</td>	<td>Provides File Sharing Service</td></tr>
  
- <tr>DNS Service	Designate<td>	<td>Provides</td> <td>DNS Server Service</td></tr>
+ <tr><td>DNS Service	Designate</td>	<td>Provides</td> <td>DNS Server Service</td></tr>
  
  <tr><td>Key Manager Service</td>	<td>Barbican</td>	<td>Provides Key Management Service<td></tr>
  
