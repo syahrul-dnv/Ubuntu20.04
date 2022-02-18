@@ -29,5 +29,14 @@ Ini adalah Contoh pembangunan infrastruktur Cloud Computing oleh OpenStack Xena.
          <td>Horizon</td>	
          <td>Provides GUI console via Web browser</td>
         </tr>
+ <tr>
+  <td>Object Storage</td>	<td>Swift</td>	<td>Provides Cloud Storage feature</td>
+ <tr>
+
+ <tr>
+  <td>Block Storage</td>	<td>Cinder</td>	<td>Storage Management for Virtual Machine</td>
+ </tr>
+ <tr><td>Network Service</td>	<td>Neutron<</td>	<td>Virtual Networking Management</td>
+ </tr>
  
  </table>
