@@ -5,7 +5,8 @@ Ini adalah Contoh pembangunan infrastruktur Cloud Computing oleh OpenStack Xena.
  <li> 1) Komponen Utama OpenStack</li>
 </ul
 
- <table align="center" border="1" cellpadding="10">
+ 
+ <table align="center" border="1" cellpadding="20">
  
         <tr> 
           <th>Service</th> <th>Code Name</th> <th>Description</th>
@@ -30,4 +31,5 @@ Ini adalah Contoh pembangunan infrastruktur Cloud Computing oleh OpenStack Xena.
          <td>Horizon</td>	
          <td>Provides GUI console via Web browser</td>
         </tr>
+ 
  </table>
