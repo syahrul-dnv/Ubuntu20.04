@@ -282,6 +282,6 @@ ubuntu@dlp ~(keystone)$ openstack console url show Ubuntu-2004
 | url      | http://10.0.0.30:6080/vnc_auto.html?path=%3Ftoken%3Dd2612b0c-0f36-4d8f-96c1-8d7e29b8133a |
 +----------+------------------------------------------------------------------------------------------+</pre>
 
-## [6]	Access to the URL which was displayed by the command above.
+## [6]	Access to the URL which was displayed by the command above. 
 
 <p align="center"><img src="https://drive.google.com/uc?export=view&id=1Dds17F1PH-GNZRNPR1NX_celCWNsJJWy"></p>
