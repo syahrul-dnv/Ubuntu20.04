@@ -64,3 +64,10 @@ root@dlp:~#keystone-manage bootstrap --bootstrap-password adminpassword \
 --bootstrap-internal-url http://$controller:5000/v3/ \
 - -bootstrap-public-url http://$controller:5000/v3/ \
 --bootstrap-region-id RegionOne</pre>
+
+## [4]	Konfigurasi Apache httpd.
+<pre>
+root@dlp:~#vi /etc/apache2/apache2.conf
+# baris 70 : tambahkan untuk menentukan nama server
+Nama Server dlp.srv.world
+root@dlp:~#systemctl restart Apache2</pre>
