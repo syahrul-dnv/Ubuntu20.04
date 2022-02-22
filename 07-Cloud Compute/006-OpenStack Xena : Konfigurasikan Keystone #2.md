@@ -30,3 +30,30 @@ ekspor\ PS_VERSION=2 h \W(batu kunci)\$ '
 root@dlp:~#chmod 600 ~/keystonerc
 root@dlp:~#sumber ~/keystonerc
 root@dlp ~(batu kunci)#echo "sumber ~/keystonerc" >> ~/.bashrc</pre>
+
+## [2]	Tambahkan Proyek.
+<pre>
+# buat proyek [layanan]
+root@dlp ~(batu kunci)#proyek openstack buat --domain default --deskripsi layanan "Proyek Layanan"
++-------------+----------------------------------+
+| lapangan | Nilai |
++-------------+----------------------------------+
+| deskripsi | Proyek Layanan |
+| domain_id | default |
+| diaktifkan | Benar |
+| id | 611e3ba8938b475fb9dd8124603f18d3 |
+| is_domain | Salah |
+| nama | layanan |
+| pilihan | {} |
+| parent_id | default |
+| tag | [] |
++-------------+----------------------------------+
+
+# konfirmasi pengaturan
+root@dlp ~(batu kunci)#daftar proyek openstack
++-----------------------------------+--------+
+| ID | Nama |
++-----------------------------------+--------+
+| 611e3ba8938b475fb9dd8124603f18d3 | layanan |
+| f4431102f2d9415590e3ac11c616858a | admin |
++-----------------------------------+--------+</pre>
