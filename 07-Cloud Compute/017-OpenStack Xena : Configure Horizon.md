@@ -50,3 +50,19 @@ root@dlp ~(keystone)# systemctl restart nova-api</pre>
 After accessing, following screen is displayed, then you can login with a user in Keystone.
 It's possible to use all features if you login with [admin] user when you set it on keystone bootstrap.
 If you login with a common user, it's possible to use or manage own instances.
+
+<p align="center"><img src="https://drive.google.com/uc?export=view&id=1lepuLmDoEdzml0bonu2GG5T6xtIa1FoT"></p>
+
+## [4]	After login successfully, following screen is displayed (with common user). You can control Openstack on this Dashboard.
+<p align="center"><img src="https://drive.google.com/uc?export=view&id=1lepuLmDoEdzml0bonu2GG5T6xtIa1FoT"></p>
+
+## [5]	To confirm own instances, Click [Instances] on the left pane, then they are diplayed on the right.
+If you did not configure Nova Policy like [2] above, common users can access to here only.
+If you configured Nova Policy like [2] above, it's possible to confirm details of instance to click an instance name.
+<p align="center"><img src="https://drive.google.com/uc?export=view&id=1lepuLmDoEdzml0bonu2GG5T6xtIa1FoT"></p>
+
+## [6]	The details of instance is displayed. To Click [Console] tab, it's possible to access to instance console.
+<p align="center"><img src="https://drive.google.com/uc?export=view&id=1lepuLmDoEdzml0bonu2GG5T6xtIa1FoT"></p>
+
+## [7]	On instance console, it's possible to operate instance on Dashboard web.
+<p align="center"><img src="https://drive.google.com/uc?export=view&id=1lepuLmDoEdzml0bonu2GG5T6xtIa1FoT"></p>
