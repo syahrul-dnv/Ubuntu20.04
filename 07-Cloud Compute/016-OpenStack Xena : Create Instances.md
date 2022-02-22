@@ -283,3 +283,5 @@ ubuntu@dlp ~(keystone)$ openstack console url show Ubuntu-2004
 +----------+------------------------------------------------------------------------------------------+</pre>
 
 ## [6]	Access to the URL which was displayed by the command above.
+
+<p align="center"><img src="https://drive.google.com/uc?export=view&id=1Dds17F1PH-GNZRNPR1NX_celCWNsJJWy"></p>
